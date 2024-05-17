@@ -14,7 +14,8 @@ from sklearn.metrics import mean_squared_error, r2_score, accuracy_score, precis
 import pickle
 
 # Step 1: Greet the user
-st.title("Machine Learning Application")
+st.title("Interactive Machine Learning Model Builder and Evaluator")
+st.title("Created By Muhammad Bilal")
 st.write("Welcome! This application allows you to build and evaluate machine learning models using your own dataset or example datasets.")
 
 # Step 2: Ask the user to upload data or use example data
